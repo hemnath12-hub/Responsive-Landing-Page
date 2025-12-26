@@ -45,7 +45,9 @@ Company: Prodigy Infotech
 
 Internship Role: Web Development Intern
 
+
 Task Number: Task-01
+Task Title: Responsive Landing Page
 
 
 
@@ -63,4 +65,3 @@ Web Development Intern | Front-End Developer
 
 
 
-Task Title: Responsive Landing Page
